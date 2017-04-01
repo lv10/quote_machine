@@ -1,5 +1,5 @@
 # Quotes Machine
-A quote from from [QuoteDesign](https://quotesondesign.com), live version can be visited at:
+A quote from from [QuoteDesign](https://quotesondesign.com), live version can be visited at: https://lv10.github.io/quote_machine/
 
 
 # Installing, Build and Run:
