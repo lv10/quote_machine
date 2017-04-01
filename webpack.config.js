@@ -24,7 +24,7 @@ module.exports = {
                 loader: "url-loader",
                 query: { mimetype: "image/png" }
             },
-            { test: /\.css$/, loaders: ["style-loader", "css-loader"] },
+            { test: /\.css$/, loaders: ["style-loader", "css-loader"] }
         ]
     }
 };
